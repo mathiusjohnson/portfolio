@@ -1,25 +1,25 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Mathius Johnson",
+    "occupation":"Web Developer",
+    "description":"currently accepting new opportunities as a freelance developer, part-time or full-time employment gig where I can work as a full stack/frontend/backend developer utilizing cutting edge technologies to make beautiful applications.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"I am an optimistic person with a can-do attitude, ready to take on any small or large challenge and have a fun time along the way. I enjoy every aspect of web development and am committed to enhancing my skills well enough to solve some big real-world problems. I finished my Diploma in Full Stack Web Development in 2020 and have been working as a Front End Web Developer, Apprentice Code Mentor and Code Project Evaluator since then.",
+    "contactmessage":"You can find me here:",
+    "email": "mathiusjohnsondeveloper@gmail.com",
+    "phone": "778-266-5848",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"38030 Loggers Lane",
+      "city":"Squamish",
+      "state":"British Columbia",
+      "zip": "V8B 0Z9"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.mathiusjohnsondev.com",
+    "resumedownload":"/images/MathiusJohnsonResume.pdf",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/DevAchievem",
         "className":"fa fa-facebook"
       },
       {
@@ -29,22 +29,22 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"mailto:mathiusjohnsondeveloper@gmail.com",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/mathius-johnson/",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"http://instagram.com/yogimathius",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/mathiusjohnson",
         "className":"fa fa-github"
       },
       {
@@ -55,33 +55,39 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lighthouse Labs",
+        "degree":"Diploma in Full Stack Web Development",
+        "graduated":"Oct 2020",
+        "description":"12 week bootcamp specializing in Javascript with React.js Front end and Express.js Back End, Intro to Ruby and Ruby on rails."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Lighthouse Labs",
+        "degree":"Certificate",
+        "graduated":"June 2020",
+        "description":"Intro to Front End Development with Javascript."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Lighthouse Labs",
+        "title":"Project Evaluator",
+        "years":"Dec 2020 - Present",
+        "description":"Provides constructive feedback to students for completed projects in the 12 week WebDevelopment Bootcamp. Evaluation of javascript fundamentals in projects built with node.js, express.js, andreact.js using custom hooks and reducer."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Wolf X Machina",
+        "title":"Front End Developer",
+        "years":"Nov 2020 - Jan 2020",
+        "description":"Use of HTML, CSS with Tailwind and Bootstrap, jQuery DOM manipulation to buildmodules in C# DNN's 2sxc Content Editor. Development of a keen eye for detail and more advanced techniques with html, stylingand jquery with modals and carousels."
+      },
+      {
+        "company":"Lighthouse Labs",
+        "title":"Apprentice Mentor",
+        "years":"Oct 2020 - Jan 2020",
+        "description":"Part Time position responding to student assistance requests for the Full Stack WebDevelopment Bootcamp at Lighthouse Labs. Assisted students learning how to write and debug their code while building webapplications in Vanilla JS and JQuery with Express.js."
       }
     ],
     "skills":[
@@ -118,45 +124,45 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Kuhner Shaker Digital Booth Product Chooser",
+        "category":"First professional project",
+        "image":"kuhnershaker.jpeg",
+        "url":"https://vbooth.kuhnershaker.us/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Stack Social Networking App for Code Mentors",
+        "category":"Group project with react.js and express.js and custom reducer hook",
+        "image":"stack-login-page.png",
+        "url":"https://the-stack-app.netlify.app/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Interview Scheduler App",
+        "category":"React.js project using express.js backend, custom reducer hook and websocket",
+        "image":"scheduler.jpeg",
+        "url":"https://interview-scheduler-mj.netlify.app/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Yogi Mathius Personal Blog",
+        "category":"Unfinished personal blog for yoga",
+        "image":"yogimathius.jpeg",
+        "url":"https://yogimathius.netlify.app/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Johnson Landscaping Website",
+        "category":"Previous profession's business website",
+        "image":"johnsonlandscaping.jpeg",
+        "url":"https://johnsonlandscaping.netlify.app/index.html"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Mathius is a friendly and resourceful person who was great to work with. He is always game to learn new things and is good at finding ways to solve problems on his own. When he worked with me, he was tasked with learning a lot of new technologies to complete real world projects and he took it all in stride. I would recommend Mathius.",
+        "user":"Aaron Lopex - Wolf X Machina Owner/Operator"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text":"That Mathius Johnson must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
         "user":"Steve Wozniak... impersonator"
       }
     ]
