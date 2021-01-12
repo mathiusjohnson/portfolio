@@ -9,24 +9,12 @@
     "email": "mathiusjohnsondeveloper@gmail.com",
     "phone": "778-266-5848",
     "address":{
-      "street":"38030 Loggers Lane",
       "city":"Squamish",
-      "state":"British Columbia",
-      "zip": "V8B 0Z9"
+      "state":"British Columbia"
     },
     "website": "http://www.mathiusjohnsondev.com",
     "resumedownload":"/images/MathiusJohnsonResume.pdf",
     "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/DevAchievem",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
       {
         "name":"google-plus",
         "url":"mailto:mathiusjohnsondeveloper@gmail.com",
@@ -39,18 +27,13 @@
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/yogimathius",
-        "className":"fa fa-instagram"
+        "url":"tel:1-778-266-5848",
+        "className":"fa fa-phone"
       },
       {
         "name":"github",
         "url":"http://github.com/mathiusjohnson",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -96,10 +79,6 @@
         "level":"60%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
         "name":"ReactJs",
         "level":"50%"
       },
@@ -113,11 +92,11 @@
       },
       {
         "name":"VueJs",
-        "level":"50%"
+        "level":"15%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"AngularJS",
+        "level":"5%"
       }
     ]
   },
@@ -160,10 +139,6 @@
       {
         "text":"Mathius is a friendly and resourceful person who was great to work with. He is always game to learn new things and is good at finding ways to solve problems on his own. When he worked with me, he was tasked with learning a lot of new technologies to complete real world projects and he took it all in stride. I would recommend Mathius.",
         "user":"Aaron Lopex - Wolf X Machina Owner/Operator"
-      },
-      {
-        "text":"That Mathius Johnson must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
       }
     ]
   }
