@@ -4,10 +4,6 @@ class Contact extends Component {
   render() {
 
     if(this.props.data){
-      var name = this.props.data.name;
-      var city = this.props.data.address.city;
-      var state = this.props.data.address.state;
-      var phone= this.props.data.phone;
       var message = this.props.data.contactmessage;
     }
 
