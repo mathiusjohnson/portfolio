@@ -50,8 +50,14 @@
         "school":"Lighthouse Labs",
         "degree":"Certificate",
         "graduated":"June 2020",
-        "description":"Intro to Front End Development with Javascript."
-      }
+        "description":"Intro to Front End Development with Javascript. 6 week course introducing basic uses of jQuery and AJAX calls with JSON objects."
+      },
+      {
+        "school":"Brainstation",
+        "degree":"Certificate",
+        "graduated":"June 2020",
+        "description":"Intro to Web Development with HTML and CSS. 6 week course using mockups to develop pages as consistently and accurately as possible."
+      } 
     ],
     "work":[
       {
@@ -103,20 +109,14 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Kuhner Shaker Digital Booth Product Chooser",
-        "category":"First professional project",
-        "image":"kuhnershaker.jpeg",
-        "url":"https://vbooth.kuhnershaker.us/"
-      },
-      {
         "title":"Stack Social Networking App for Code Mentors",
-        "category":"Group project with react.js and express.js and custom reducer hook",
+        "category":"Group project with react.js and express.js using custom reducer and context hooks",
         "image":"stack-login-page.png",
         "url":"https://the-stack-app.netlify.app/"
       },
       {
         "title":"Interview Scheduler App",
-        "category":"React.js project using express.js backend, custom reducer hook and websocket",
+        "category":"React.js project using express.js backend, with useReducer hook and websocket",
         "image":"scheduler.jpeg",
         "url":"https://interview-scheduler-mj.netlify.app/"
       },
