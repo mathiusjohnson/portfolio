@@ -58,19 +58,19 @@
         "company":"Lighthouse Labs",
         "title":"Project Evaluator",
         "years":"Dec 2020 - Present",
-        "description":"Provides constructive feedback to students for completed projects in the 12 week WebDevelopment Bootcamp. Evaluation of javascript fundamentals in projects built with node.js, express.js, andreact.js using custom hooks and reducer."
+        "description":"Provides constructive feedback to students for completed projects in the 12 week Web Development Bootcamp. Evaluation of javascript fundamentals in projects built with node.js, express.js, andreact.js using custom hooks and reducer."
       },
       {
         "company":"Wolf X Machina",
         "title":"Front End Developer",
         "years":"Nov 2020 - Jan 2020",
-        "description":"Use of HTML, CSS with Tailwind and Bootstrap, jQuery DOM manipulation to buildmodules in C# DNN's 2sxc Content Editor. Development of a keen eye for detail and more advanced techniques with html, stylingand jquery with modals and carousels."
+        "description":"Use of HTML, CSS with Tailwind and Bootstrap, jQuery DOM manipulation to build modules in C# DNN's 2sxc Content Editor. Development of a keen eye for detail and more advanced techniques with html, stylingand jquery with modals and carousels."
       },
       {
         "company":"Lighthouse Labs",
         "title":"Apprentice Mentor",
         "years":"Oct 2020 - Jan 2020",
-        "description":"Part Time position responding to student assistance requests for the Full Stack WebDevelopment Bootcamp at Lighthouse Labs. Assisted students learning how to write and debug their code while building webapplications in Vanilla JS and JQuery with Express.js."
+        "description":"Part Time position responding to student assistance requests for the Full Stack Web Development Bootcamp at Lighthouse Labs. Assisted students learning how to write and debug their code while building web applications in Vanilla JS and JQuery with Express.js."
       }
     ],
     "skills":[
