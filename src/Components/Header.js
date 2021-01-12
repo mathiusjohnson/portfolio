@@ -37,7 +37,7 @@ class Header extends Component {
             <h1 className="responsive-headline">I'm {name}.</h1>
             <h3 className="header-a">I'm a {city} based <span>{occupation}</span>. {description}.</h3>
             <hr />
-            <button role="button" type="button" className="btn"><a href="#contact">Work with me.</a></button>
+            <button type="button" className="btn"><a href="#contact">Work with me.</a></button>
             <hr />
             <ul className="social">
                {networks}
