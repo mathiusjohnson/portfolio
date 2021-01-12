@@ -446,6 +446,10 @@ dd { margin: 0 0 0 20px; }
 }
 .pagination .prev, .pagination .next {}
 
+
+.text-blue {
+   color: blue;
+}
 /*  5. Images  --------------------------------------------------------- */
 
 img {

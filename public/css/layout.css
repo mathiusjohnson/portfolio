@@ -76,6 +76,8 @@ header .banner-text h3 span,
 header .banner-text h3 a {
    color: #fff;
 }
+
+
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
@@ -83,6 +85,27 @@ header .banner-text hr {
    border-color: rgba(150, 150, 150, .1);
 }
 
+header .banner-text .btn {
+   display: flex;
+   padding: 0 15px;
+   margin: 0 auto;
+   background-color: #59E639;
+   /* border: 1px solid black; */
+   color: white;
+   border-radius: 28px;
+}
+
+header .banner-text a:hover {
+   opacity: .7;
+}
+
+header .banner-text a:visited {
+   color: white;
+}
+
+header .banner-text a:active {
+   opacity: 1;
+}
 /* header social links */
 header .social {
    margin: 24px 0;
