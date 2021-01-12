@@ -2,7 +2,7 @@
   "main": {
     "name":"Mathius Johnson",
     "occupation":"Web Developer",
-    "description":"currently accepting new opportunities as a freelance developer, part-time or full-time employment gig where I can work as a full stack/frontend/backend developer utilizing cutting edge technologies to make beautiful applications.",
+    "description":"Currently accepting new opportunities as a freelance developer or Junior Developer. I am available to work as a full stack/frontend/backend developer utilizing cutting edge technologies to make beautiful applications",
     "image":"profilepic.jpg",
     "bio":"I am an optimistic person with a can-do attitude, ready to take on any small or large challenge and have a fun time along the way. I enjoy every aspect of web development and am committed to enhancing my skills well enough to solve some big real-world problems. I finished my Diploma in Full Stack Web Development in 2020 and have been working as a Front End Web Developer, Apprentice Code Mentor and Code Project Evaluator since then.",
     "contactmessage":"You can find me here:",
@@ -30,7 +30,7 @@
       {
         "name":"google-plus",
         "url":"mailto:mathiusjohnsondeveloper@gmail.com",
-        "className":"fa fa-google-plus"
+        "className":"far fa-envelope"
       },
       {
         "name":"linkedin",
