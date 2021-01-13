@@ -16,24 +16,24 @@
     "resumedownload":"/images/MathiusJohnsonResume.pdf",
     "social":[
       {
-        "name":"google-plus",
-        "url":"mailto:mathiusjohnsondeveloper@gmail.com",
-        "className":"far fa-envelope"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/mathius-johnson/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"tel:1-778-266-5848",
-        "className":"fa fa-phone"
-      },
-      {
         "name":"github",
         "url":"http://github.com/mathiusjohnson",
         "className":"fa fa-github"
+      },
+      {
+        "name":"google-plus",
+        "url":"mailto:mathiusjohnsondeveloper@gmail.com",
+        "className":"far fa-envelope"
+      },
+      {
+        "name":"phone",
+        "url":"tel:1-778-266-5848",
+        "className":"fa fa-phone"
       }
     ]
   },
