@@ -90,7 +90,7 @@
         "name":"ReactJs",
         "level":"50%",
         "image": "/images/icons/react.png",
-        "link": ""
+        "link": "https://reactjs.org/docs/getting-started.html"
       },
       {
         "name": "Javascript",
