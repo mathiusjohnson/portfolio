@@ -75,34 +75,58 @@
       {
         "company":"Lighthouse Labs",
         "title":"Apprentice Mentor",
-        "years":"Oct 2020 - Jan 2020",
+        "years":"Oct 2020 - Present",
         "description":"Part Time position responding to student assistance requests for the Full Stack Web Development Bootcamp at Lighthouse Labs. Assisted students learning how to write and debug their code while building web applications in Vanilla JS and JQuery with Express.js."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"60%",
+        "image": "/images/icons/git.png",
+        "link": "https://git-scm.com/doc"
       },
       {
         "name":"ReactJs",
-        "level":"50%"
+        "level":"50%",
+        "image": "/images/icons/react.png",
+        "link": ""
+      },
+      {
+        "name": "Javascript",
+        "level": "50%",
+        "image": "/images/icons/js.png",
+        "link": ""
       },
       {
         "name":"CSS",
-        "level":"90%"
+        "level":"90%",
+        "image": "/images/icons/css.png",
+        "link": ""
       },
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"80%",
+        "image": "/images/icons/html2.png",
+        "link": ""
+      },
+      {
+        "name":"TailwindCSS",
+        "level": "45%",
+        "image": "/images/icons/tailwind.png",
+        "link": ""
       },
       {
         "name":"VueJs",
-        "level":"15%"
+        "level":"15%",
+        "image": "/images/icons/vue-js.png",
+        "link": ""
       },
       {
         "name":"AngularJS",
-        "level":"5%"
+        "level":"5%",
+        "image": "/images/icons/angular.png",
+        "link": ""
       }
     ]
   },
@@ -121,16 +145,16 @@
         "url":"https://interview-scheduler-mj.netlify.app/"
       },
       {
-        "title":"Yogi Mathius Personal Blog",
-        "category":"Unfinished personal blog for yoga",
-        "image":"yogimathius.jpeg",
-        "url":"https://yogimathius.netlify.app/"
-      },
-      {
         "title":"Johnson Landscaping Website",
         "category":"Previous profession's business website",
         "image":"johnsonlandscaping.jpeg",
         "url":"https://johnsonlandscaping.netlify.app/index.html"
+      },
+      {
+        "title":"Yogi Mathius Personal Blog",
+        "category":"Unfinished personal blog for yoga",
+        "image":"yogimathius.jpeg",
+        "url":"https://yogimathius.netlify.app/"
       }
     ]
   },
