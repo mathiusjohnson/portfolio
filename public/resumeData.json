@@ -133,12 +133,6 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Stack Social Networking App for Code Mentors",
-        "category":"Group project with react.js and express.js using custom reducer and context hooks",
-        "image":"stack-login-page.png",
-        "url":"https://the-stack-app.netlify.app/"
-      },
-      {
         "title":"Interview Scheduler App",
         "category":"React.js project using express.js backend, with useReducer hook and websocket",
         "image":"scheduler.jpeg",
