@@ -133,6 +133,12 @@
   "portfolio":{
     "projects": [
       {
+        "title":"Freeflow Social Network",
+        "category":"React.js with Redux project using express.js backend (still in development)",
+        "image":"social.png",
+        "url":"https://freeflow-network.netlify.app/"
+      },
+      {
         "title":"Interview Scheduler App",
         "category":"React.js project using express.js backend, with useReducer hook and websocket",
         "image":"scheduler.jpeg",
