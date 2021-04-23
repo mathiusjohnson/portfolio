@@ -135,7 +135,7 @@
       {
         "title":"Freeflow Social Network",
         "category":"React.js with Redux project using express.js backend (still in development)",
-        "image":"social.jpg",
+        "image":"freeflow.png",
         "url":"https://freeflow-network.netlify.app/"
       },
       {
@@ -146,7 +146,7 @@
       },
       {
         "title":"Johnson Landscaping Website",
-        "category":"Previous profession's business website",
+        "category":"Previous profession's business website.",
         "image":"johnsonlandscaping.jpeg",
         "url":"https://johnsonlandscaping.netlify.app/index.html"
       },
@@ -155,6 +155,12 @@
         "category":"Unfinished personal blog for yoga",
         "image":"yogimathius.jpeg",
         "url":"https://yogimathius.netlify.app/"
+      },
+      {
+        "title":"Sovereign Birth Business Website",
+        "category":"Business website with admin login. Uses React Front End with Express Back End, Postgresql persistent data, and Tailwind CSS.",
+        "image":"sovereign-birth.png",
+        "url":"https://sovereign-birth.netlify.app/"
       }
     ]
   },

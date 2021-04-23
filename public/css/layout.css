@@ -508,7 +508,7 @@ img.glow {
 	transition: opacity 0.3s ease-in-out;
 
    position: absolute;
-   top: 50%;
+   top: 85%;
    left: 50%;
    margin-left: -15px;
    margin-top: -15px;
